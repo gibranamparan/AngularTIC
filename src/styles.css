@@ -1,1 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+MiPanel1{
+	background-color: #5DB5FF;
+	border: 1px solid black;
+	display: block;
+}	
+
+MiPanel2{
+	background-color: #33FF98;
+	border: 1px solid black;
+	display: block;
+}
+
+.inputInvalido{
+	background-color: pink;
+}
+
+.navbar{
+	background-color: #FFE0C9
+}
+
